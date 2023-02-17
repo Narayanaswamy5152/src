@@ -1,0 +1,19 @@
+
+#bannerP{
+   
+   color:white;
+   font-size: 18px; 
+   font-weight: bold;
+   padding: 20px 0px 0px 150px;
+}
+
+#image{
+    padding-left:130px;
+    padding-top:150px;
+}
+#banner
+{
+    height: 430px;
+    background-size: cover;
+    background-image: url('https://images.pond5.com/group-college-students-studying-together-footage-076670931_prevstill.jpeg');
+}

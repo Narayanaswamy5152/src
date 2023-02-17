@@ -1,0 +1,54 @@
+.registrationContainer{
+    border-width:1px;
+    height:400px;
+    width:900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:100px 100px 100px 230px;
+    border-style:solid;
+    border-color:black;
+    padding:30px ;
+    
+}
+.registerHeading{
+    text-align: center;
+    font-weight: bold;
+    font-size:30px;
+    padding-left:50px ;
+    margin-bottom: 30px;
+    padding-right: 30px;
+}
+.registerParagraph{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 200px;
+    font-size:10px;
+   padding-left: 40px;
+    padding-right: 10px;
+}
+.vl {
+    border-left: 1px solid black;
+    height: 300px;
+    margin-left: 50px;
+  }
+.registerPara{
+    font-size: 15px;
+    font-weight: bold;
+}
+.formContainer{
+    margin-left: 50px;
+    width:500px;
+}
+.button{
+    background-color: rgba(3, 3, 59, 0.829);
+    color: white;
+    width:450px;
+}
+.error-message {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #dc3545;
+}
+

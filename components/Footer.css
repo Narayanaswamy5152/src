@@ -1,0 +1,14 @@
+.footer
+{
+    justify-content: center;
+    background-color: black;
+    color:white;
+    padding:5px;
+    height:30px;
+    display:flex;
+}
+.footer img{
+    width:20px;
+    height:20px;
+    padding:3px;
+}
